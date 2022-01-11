@@ -1,0 +1,190 @@
+
+ID | Title | Quantity | Price
+------------------------------
+999 | Apple | 12 | 3.6
+810 | Banana | 6 | 7.5
+750 | Cake | 3 | 5.1
+633 | Orange | 6 | 6.6
+552 | Pomegranate | 9 | 8.1
+492 | Watermelon | 6 | 4.8
+
+Successfully!
+
+Create successful!
+
+Create successful!
+
+Create successful!
+
+ID | Title | Quantity | Price
+------------------------------
+999 | Apple | 12 | 3.6
+810 | Banana | 6 | 7.5
+750 | Cake | 3 | 5.1
+633 | Orange | 6 | 6.6
+552 | Pomegranate | 9 | 8.1
+492 | Watermelon | 6 | 4.8
+027 | Sugar | 15 | 2.4
+666 | Salt | 6 | 6.6
+351 | Beer | 3 | 18.0
+
+Successfully!
+
+Save successful!
+
+Product ID "555" not found.
+
+Search result: 552 | Pomegranate | 9 | 8.1
+
+Delete product ID 351 successful!
+
+Delete product ID 666 successful!
+
+Save successful!
+
+ID | Title | Quantity | Price
+------------------------------
+999 | Apple | 12 | 3.6
+810 | Banana | 6 | 7.5
+750 | Cake | 3 | 5.1
+633 | Orange | 6 | 6.6
+552 | Pomegranate | 9 | 8.1
+492 | Watermelon | 6 | 4.8
+027 | Sugar | 15 | 2.4
+
+Successfully!
+
+Binary of 12 is: 1100
+
+ID | Title | Quantity | Price
+------------------------------
+027 | Sugar | 15 | 2.4
+492 | Watermelon | 6 | 4.8
+552 | Pomegranate | 9 | 8.1
+633 | Orange | 6 | 6.6
+750 | Cake | 3 | 5.1
+810 | Banana | 6 | 7.5
+999 | Apple | 12 | 3.6
+
+Successfully!
+
+ID | Title | Quantity | Price
+------------------------------
+999 | Apple | 12 | 3.6
+810 | Banana | 6 | 7.5
+750 | Cake | 3 | 5.1
+633 | Orange | 6 | 6.6
+552 | Pomegranate | 9 | 8.1
+492 | Watermelon | 6 | 4.8
+027 | Sugar | 15 | 2.4
+
+Successfully!
+
+Binary of 12 is: 1100
+
+ID | Title | Quantity | Price
+------------------------------
+999 | Apple | 12 | 3.6
+810 | Banana | 6 | 7.5
+750 | Cake | 3 | 5.1
+633 | Orange | 6 | 6.6
+552 | Pomegranate | 9 | 8.1
+492 | Watermelon | 6 | 4.8
+027 | Sugar | 15 | 2.4
+
+Successfully!
+
+Sort by ID successful!
+
+Binary of 15 is: 1111
+
+ID | Title | Quantity | Price
+------------------------------
+027 | Sugar | 15 | 2.4
+492 | Watermelon | 6 | 4.8
+552 | Pomegranate | 9 | 8.1
+633 | Orange | 6 | 6.6
+750 | Cake | 3 | 5.1
+810 | Banana | 6 | 7.5
+999 | Apple | 12 | 3.6
+
+Successfully!
+
+ID | Title | Quantity | Price
+------------------------------
+999 | Apple | 12 | 3.6
+810 | Banana | 6 | 7.5
+750 | Cake | 3 | 5.1
+633 | Orange | 6 | 6.6
+552 | Pomegranate | 9 | 8.1
+492 | Watermelon | 6 | 4.8
+027 | Sugar | 15 | 2.4
+
+Successfully!
+
+Create successful!
+
+ID | Title | Quantity | Price
+------------------------------
+999 | Apple | 12 | 3.6
+810 | Banana | 6 | 7.5
+750 | Cake | 3 | 5.1
+633 | Orange | 6 | 6.6
+552 | Pomegranate | 9 | 8.1
+492 | Watermelon | 6 | 4.8
+027 | Sugar | 15 | 2.4
+000 | 123 | 123 | 123.0
+
+Successfully!
+
+Save successful!
+
+Product ID "123" not found.
+
+Search result: 492 | Watermelon | 6 | 4.8
+
+Delete product ID 000 successful!
+
+Search result: 552 | Pomegranate | 9 | 8.1
+
+Binary of 12 is: 1100
+
+Save successful!
+
+ID | Title | Quantity | Price
+------------------------------
+027 | Sugar | 15 | 2.4
+492 | Watermelon | 6 | 4.8
+552 | Pomegranate | 9 | 8.1
+633 | Orange | 6 | 6.6
+750 | Cake | 3 | 5.1
+810 | Banana | 6 | 7.5
+999 | Apple | 12 | 3.6
+
+Successfully!
+
+ID | Title | Quantity | Price
+------------------------------
+999 | Apple | 12 | 3.6
+810 | Banana | 6 | 7.5
+750 | Cake | 3 | 5.1
+633 | Orange | 6 | 6.6
+552 | Pomegranate | 9 | 8.1
+492 | Watermelon | 6 | 4.8
+027 | Sugar | 15 | 2.4
+
+Successfully!
+
+Sort by ID successful!
+
+ID | Title | Quantity | Price
+------------------------------
+027 | Sugar | 15 | 2.4
+492 | Watermelon | 6 | 4.8
+552 | Pomegranate | 9 | 8.1
+633 | Orange | 6 | 6.6
+750 | Cake | 3 | 5.1
+810 | Banana | 6 | 7.5
+999 | Apple | 12 | 3.6
+
+Successfully!

@@ -1,0 +1,9 @@
+ID | Title | Quantity | Price
+------------------------------
+999 | Apple | 12 | 3.6
+810 | Banana | 6 | 7.5
+750 | Cake | 3 | 5.1
+633 | Orange | 6 | 6.6
+552 | Pomegranate | 9 | 8.1
+492 | Watermelon | 6 | 4.8
+027 | Sugar | 15 | 2.4
